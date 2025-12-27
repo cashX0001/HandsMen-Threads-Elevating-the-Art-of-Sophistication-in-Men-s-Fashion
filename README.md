@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧵 HandsMen Threads - Salesforce Project
 
 **Elevating the Art of Sophistication in Men's Fashion**
